@@ -26,24 +26,57 @@ Me gusta transformar ideas en experiencias digitales usando las últimas tecnolo
 
 ## 📂 Proyectos destacados
 
-- [🌐 Proyecto 1](https://github.com/tuusuario/proyecto1)  
-  *Descripción breve del proyecto, qué problema resuelve y qué tecnologías usaste.*
+### 🌐 Calculador - Landing Page
+Calculador y convertidor de datos varios online, desarrollado con **HTML5, CSS3 y Bootstrap**.
+Descuentos, cuotas, monedas, temperaturas y más.
 
-- [📱 Proyecto 2](https://github.com/tuusuario/proyecto2)  
-  *Explica si es una app responsive, qué librerías integraste, etc.*
-
-- [⚡ Proyecto 3](https://github.com/tuusuario/proyecto3)  
-  *Cuenta si implementaste APIs, optimización de rendimiento, etc.*
+[![Ver Código](https://github.com/hevieri/Calculador)
+[![Ver Online](https://hevieri.github.io/Calculador/)
 
 ---
 
-## 📫 Contacto
+### 🌐 Tasky - Generador de Roadmaps Visuales
+Aplicación de tareas con **JavaScript y React**.
+Permite subir archivos .json, editarlos, visualizarlos y exportarlos a otros formatos.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 [Email](mailto:tuemail@example.com)  
-- 🐙 [GitHub](https://github.com/tuusuario)
+[![Ver Código](https://github.com/hevieri/Tasky)
+[![Ver Online](https://hevieri.github.io/Tasky/)
 
 ---
 
-✨ *Siempre aprendiendo y construyendo nuevas experiencias digitales.*
+### 🌐 Pokeapi - API Backend
+Listado de Pokémon con sus atributos, construida en React que consume datos desde la PokéAPI.
+[![Ver Código](https://github.com/hevieri/Pokeapi)
+[![Ver Online](https://hevieri.github.io/Pokeapi/)
 
+---
+
+### 🌐 To Do List
+Lista de tareas, editables con opción de agregar y borrar, desarrollada con Javascript.
+[![Ver Código](https://github.com/hevieri/To-Do-List)
+[![Ver Online](https://hevieri.github.io/To-Do-List/)
+
+---
+
+### 🌐 Sloth Machine - TragaMonedas
+Este proyecto simula una máquina tragamonedas funcional con lógica de juego y diseño visual dinámico. Desarrollada en Javascript
+[![Ver Código](https://github.com/hevieri/SlotMachine)
+[![Ver Online](https://hevieri.github.io/SlotMachine/)
+
+---
+
+### 🌐 Morningstar - Sitio Web
+Sitio web desarrollado con HTML5 y CSS3, centrado en una estructura clara, moderna y adaptable a cualquier dispositivo.
+[![Ver Código](https://github.com/hevieri/Morningstar)
+[![Ver Online](https://hevieri.github.io/Morningstar/)
+
+---
+
+### 🌐 CV - Onepage
+Curriculum Vitae propio en formato onepage
+[![Ver Código](https://github.com/hevieri/cv-onepage)
+[![Ver Online](https://hevieri.github.io/cv-onepage/)
+
+---
+
+💫 PROXIMAMENTE MÁS PROYECTOS 💫
